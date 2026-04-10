@@ -9,8 +9,6 @@ import shutil
 
 import shutil
 
-# IN PROGRESS
-
 def create_conversion_folder():
   conversion_folder_path = "./temporary_conversion_folder/{}".format(uuid.uuid4())
 
